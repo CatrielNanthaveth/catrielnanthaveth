@@ -10,7 +10,7 @@ Soy estudiante de Ciencias de la Computación en la UBA y desarrollador web apas
 - **Otros:** Git, AWS S3, Web Scraping, QA
 
 ### 🌟 Proyectos Destacados
-- **[TO-DO app]([https://github.com/catrielnanthaveth/blog-cms](https://github.com/CatrielNanthaveth/pweb2_notes)):** Un blog donde los usuarios pueden crear y gestionar publicaciones. Construido con Node.js, Express y MongoDB.
+- **[TO-DO app]([https://github.com/catrielnanthaveth/blog-cms](https://github.com/CatrielNanthaveth/pweb2_notes)):** Una aplicación de notas, desarrollada durante la cursada de Programación Web II. Construido con PostgreSQL, Express, React y Node.
 - **[Portfolio Personal]([https://tuportfoliourl.com](https://portfolio-fe-opal.vercel.app)):** Mi portfolio interactivo para mostrar mis habilidades y proyectos.
 
 ### 🧑‍🎓 En constante aprendizaje
